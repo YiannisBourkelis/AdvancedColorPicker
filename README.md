@@ -17,6 +17,8 @@ You can also use the ColorPickerViewController.SelectedColor property to get/set
 When you change the value of this property and the ColorPickerViewController.View is visible, the color
 selection indicators will pick the color using an animation.
 
+Take a look at the AdvancedColorPickerDemo project about how to use it.
+
 
 
 Compatibility
