@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdvancedColorPicker/AppDelegate.cs">
+    <Files>
+      <File FileName="AdvancedColorPicker/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="AdvancedColorPicker" expanded="True">
+            <Node name="AppDelegate.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../AdvancedScheduler/SchedulerController.cs" line="220" offsetX="496" offsetY="3165" expression="_event.TimeZone" liveUpdate="False" />
+    <Watch file="../../AdvancedTableView/TableDataSource.cs" line="717" offsetX="728" offsetY="9904" expression="SectionCell" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdvancedColorPickerDemo/AppDelegate.cs">
+    <Files>
+      <File FileName="AdvancedColorPickerDemo/AppDelegate.cs" Line="96" Column="49" />
+      <File FileName="AdvancedColorPicker/ColorPickerViewController.cs" Line="165" Column="1" />
+      <File FileName="AdvancedColorPicker/HueIndicatorView.cs" Line="29" Column="30" />
+      <File FileName="AdvancedColorPicker/HuePickerView.cs" Line="29" Column="30" />
+      <File FileName="AdvancedColorPicker/SatBrightIndicatorView.cs" Line="1" Column="1" />
+      <File FileName="AdvancedColorPicker/SaturationBrightnessPickerView.cs" Line="34" Column="1" />
+      <File FileName="AdvancedColorPicker/SelectedColorPreviewView.cs" Line="27" Column="30" />
+      <File FileName="AdvancedColorPickerDemo/ContainerController.cs" Line="23" Column="1" />
+      <File FileName="AdvancedColorPickerDemo/Main.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="AdvancedColorPicker" expanded="True" />
+          <Node name="AdvancedColorPickerDemo" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="AppDelegate.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../AdvancedScheduler/SchedulerController.cs" line="220" offsetX="496" offsetY="3165" expression="_event.TimeZone" liveUpdate="False" />
+    <Watch file="../../AdvancedTableView/TableDataSource.cs" line="717" offsetX="728" offsetY="9904" expression="SectionCell" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.AdvancedColorPickerDemo>
+    <IPhoneSimulatorTarget-Debug_27CiPhoneSimulator Device="IPad" SdkVersion="5.1" />
+  </MonoDevelop.Ide.ItemProperties.AdvancedColorPickerDemo>
+</Properties>
