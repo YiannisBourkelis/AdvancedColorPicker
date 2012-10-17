@@ -9,9 +9,10 @@ Usage
 =====
 AdvancedColorPicker is very simple and easy to use:
 
-1. Create an instance of ColorPickerViewController
-2. Show ColorPickerViewController.View
-3. Subscribe to ColorPickerViewController.ColorPicked event, to be notified when the user picks a color
+1. Include ColorPickerViewController project in your solution and add a reference to it.
+2. Create an instance of ColorPickerViewController
+3. Show ColorPickerViewController.View
+4. Subscribe to ColorPickerViewController.ColorPicked event, to be notified when the user picks a color
 
 You can also use the ColorPickerViewController.SelectedColor property to get/set the selected color. 
 When you change the value of this property and the ColorPickerViewController.View is visible, the color
