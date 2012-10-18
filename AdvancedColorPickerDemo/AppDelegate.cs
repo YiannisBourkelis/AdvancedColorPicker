@@ -83,7 +83,7 @@ namespace AdvancedColorPickerDemo
 			picker.Title = "Pick a color!";
 			UINavigationController pickerNav = new UINavigationController(picker);
 			pickerNav.ModalPresentationStyle = UIModalPresentationStyle.FormSheet;
-
+	
 			doneBtn = new UIBarButtonItem(UIBarButtonSystemItem.Done);
 			picker.NavigationItem.RightBarButtonItem = doneBtn;
 			doneBtn.Clicked += doneBtn_HandleClicked;

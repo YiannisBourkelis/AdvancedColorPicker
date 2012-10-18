@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.Workbench ActiveDocument="AdvancedColorPickerDemo/AppDelegate.cs">
     <Files>
-      <File FileName="AdvancedColorPickerDemo/AppDelegate.cs" Line="96" Column="49" />
+      <File FileName="AdvancedColorPickerDemo/AppDelegate.cs" Line="101" Column="37" />
       <File FileName="AdvancedColorPicker/ColorPickerViewController.cs" Line="165" Column="1" />
       <File FileName="AdvancedColorPicker/HueIndicatorView.cs" Line="29" Column="30" />
       <File FileName="AdvancedColorPicker/HuePickerView.cs" Line="29" Column="30" />
@@ -17,8 +17,7 @@
         <State expanded="True">
           <Node name="AdvancedColorPicker" expanded="True" />
           <Node name="AdvancedColorPickerDemo" expanded="True">
-            <Node name="References" expanded="True" />
-            <Node name="AppDelegate.cs" selected="True" />
+            <Node name="References" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
