@@ -1,7 +1,7 @@
 AdvancedColorPicker
 ===================
 
-A color picker component for Monotouch
+A color picker component for Xamarin iOS / Monotouch
 
 ![AdvancedColorPicker](https://github.com/YiannisBourkelis/AdvancedColorPicker/raw/master/Images/iPhone_colorpicker.png)
 
